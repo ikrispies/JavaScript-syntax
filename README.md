@@ -1,0 +1,2 @@
+# JavaScript-syntax
+JavaScript syntax
